@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to Programming",
+    "author": "John Smith",
+    "price": 1500
+  },
+  {
+    "id": 2,
+    "title": "JavaScript for Beginners",
+    "author": "Mary Johnson",
+    "price": 2200
+  },
+  {
+    "id": 3,
+    "title": "REST API Design",
+    "author": "David Lee",
+    "price": 1800
+  }
+]

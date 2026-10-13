@@ -1,0 +1,17 @@
+{
+  "name": "lab07-nodejs-rest-api",
+  "version": "1.0.0",
+  "description": "Lab 07 tasks: Node.js modules, file handling, Student and Book REST APIs, and Postman testing",
+  "main": "app.js",
+  "scripts": {
+    "calculator": "node app.js",
+    "write-text": "node write.js",
+    "read-text": "node read.js",
+    "employees": "node employees.js",
+    "students-api": "node server.js",
+    "books-api": "node book-server.js"
+  },
+  "dependencies": {
+    "express": "^4.22.3"
+  }
+}

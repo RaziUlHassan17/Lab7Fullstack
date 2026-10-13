@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Ayesha Khan",
+    "position": "Developer",
+    "salary": 85000
+  },
+  {
+    "id": 2,
+    "name": "Bilal Ahmed",
+    "position": "Designer",
+    "salary": 70000
+  },
+  {
+    "id": 3,
+    "name": "Hina Malik",
+    "position": "QA Engineer",
+    "salary": 75000
+  },
+  {
+    "id": 4,
+    "name": "Usman Ali",
+    "position": "System Analyst",
+    "salary": 90000
+  },
+  {
+    "id": 5,
+    "name": "Sara Noor",
+    "position": "Project Manager",
+    "salary": 110000
+  }
+]
